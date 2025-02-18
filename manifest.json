@@ -1,6 +1,6 @@
 {
-    "name": "convert_currenciy_mobile_app",
-    "short_name": "convert_currenciy_mobile_app",
+    "name": "flut_api",
+    "short_name": "flut_api",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
